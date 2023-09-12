@@ -12,6 +12,15 @@ body
     -webkit-text-fill-color: #fec10f;
     font-family: 'Oswald', sans-serif;
 }
+.nav
+{
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #000000;
+    border-radius: 10px;
+    margin: 10px 10px 0px 10px;
+    height: 5%;
+    padding: 15px 0px 0px 15px;
+}
 .body1
 {
     background-color: #000000;
