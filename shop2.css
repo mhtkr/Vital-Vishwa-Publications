@@ -1,0 +1,67 @@
+.top
+{
+    background-color:#000000 ;
+    padding-top: 10;
+    padding-left: 10;
+    padding-bottom: 10;
+    border-radius: 20px;
+    -webkit-text-fill-color: #fec10f;
+    font-family: 'Oswald', sans-serif;
+}
+
+.logo
+{
+    width: 150px; 
+    height: 150px;
+    border-radius: 30px;
+}
+
+body
+{
+    background-color: #fec10f;
+}
+
+.shop
+{
+    background-color:#000000 ;
+    margin-top: 10px;
+    padding-top: 10;
+    padding-left: 10;
+    padding-bottom: 10;
+    border-radius: 20px;
+    -webkit-text-fill-color: #fec10f;
+    font-family: 'Oswald', sans-serif;
+}
+
+.book
+{
+    width: auto; 
+    height: auto;
+    border-radius: 30px;
+}
+
+.next-page-button
+{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    text-decoration: none;
+    margin-top: 15px;
+    font-family:'Oswald', sans-serif;
+}
+  
+.next-page-button:hover
+{
+    background-color: #fec10f;
+}
+
+.butt
+{
+    text-align: center;
+  margin: 0 auto;
+  width: 50%;
+}
