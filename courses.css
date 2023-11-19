@@ -18,6 +18,30 @@ body
 {
     background-color: #fec10f;
 }
+.crs_logo
+{
+    background-color: #000000;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 180%;
+}
+
+.tagline
+{
+    border-radius: 20px;
+    padding: 15px;
+    margin-top: 20px;
+    background-color: #000000;
+    -webkit-text-fill-color: #fec10f;
+    font-family:'Roboto Condensed', sans-serif;
+    text-align: center;
+    font-style: italic;
+    
+}
 .abt_crs
 {
 
