@@ -15,7 +15,27 @@
     height: 150px;
     border-radius: 30px;
 }
-
+.dark-mode
+{
+    background-color: #121212;
+}
+.dark_li
+{
+    float: right;
+    margin-right: 20px;
+    
+}
+.dark_button
+{
+    background-color: transparent;
+    appearance: none;
+    border: none;
+}
+.material-symbols-outlined
+{
+  -webkit-text-fill-color: #fec10f;
+  display: inline-block;
+}
 body
 {
     background-color: #fec10f;
@@ -59,8 +79,8 @@ body
 
 .book
 {
-    width: auto; 
-    height: auto;
+    height: 240px;
+    width: 158px;
     border-radius: 30px;
 }
 
@@ -75,7 +95,7 @@ body
     cursor: pointer;
     text-decoration: none;
     margin-top: 15px;
-    font-family:'Oswald', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
 }
   
 .next-page-button:hover

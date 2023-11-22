@@ -15,6 +15,27 @@
     height: 150px;
     border-radius: 30px;
 }
+.dark-mode
+{
+    background-color: #121212;
+}
+.dark_li
+{
+    float: right;
+    margin-right: 20px;
+    
+}
+.dark_button
+{
+    background-color: transparent;
+    appearance: none;
+    border: none;
+}
+.material-symbols-outlined
+{
+  -webkit-text-fill-color: #fec10f;
+  display: inline-block;
+}
 
 body
 {
